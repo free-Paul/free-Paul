@@ -1,5 +1,2 @@
-Hello, I'm ...
-Eternal student 👨‍🎓
-my code is ...
-A crutch in code the size of a two-story house 🏠
-Nice to meet you 👋
+Nice to meet you 👋 <br>
+<img src="https://github.com/free-Paul/not_code/blob/main/old%20pc.gif?raw=true" width="500">
